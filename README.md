@@ -1,4 +1,4 @@
-* Pacman Exercise
+# Pacman Exercise
 
 ## Tables of contents
 * [Description](#description)
