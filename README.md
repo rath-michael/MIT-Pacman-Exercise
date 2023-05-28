@@ -1,3 +1,5 @@
+* Pacman Exercise
+
 ## Tables of contents
 * [Description](#description)
 * [Technologies](#technologies)
@@ -20,5 +22,3 @@ To run and see this project, download locally, extract the files, and run the in
 ## Roadmap
 * The change in animation between the mouth open / mouth close needs to be updated to look correct
 * I would like to have each individual Pacman object check for, and correct as necessary, any collissions with other Pacmen objects.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rath-michael&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rath-michael/github-readme-stats)
